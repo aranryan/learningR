@@ -1,5 +1,9 @@
 
 
+examples from:
+  Autoplot: Graphical Methods with ggplot2
+http://librestats.com/2012/06/11/autoplot-graphical-methods-with-ggplot2/
+
 n <- 50
 y <- rnorm(n)
 x <- matrix(rnorm(n*4), ncol=4)
